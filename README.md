@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Muhammad Uzair 🚀
 
-<!--
-**uzairjutt803/uzairjutt803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack MERN Developer | Web & Mobile App Specialist
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Scalable Web Applications**
+- 🌱 I’m currently learning **Advanced React.js & Cloud Deployment**
+- 💬 Ask me about **MongoDB, Express, React, and Node.js**
+- 📫 How to reach me: **[uzairjuttjutt803@gmail.com]**
+- ⚡ Fun fact: **I love turning complex problems into simple code!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Skills
+- **Frontend:** HTML, CSS, Bootstrap, javascript ,React.js, Tailwind CSS, Ant Design
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, Firebase, Supabase
+- **Mobile:** React Native
